@@ -54,7 +54,7 @@ For reference, we have been consulting the following resources during this proce
 
 ### PPO Implementation
 
-Benchmarked with a basic (read: not transformer) neural network on cartpole, our implementation of PPO should work with arbitrary combinations of neural network and environment.
+Benchmarked with a basic (read: not transformer) neural network on cartpole, our implementation of PPO found in PPO.py should work with arbitrary combinations of neural network and environment.
 
 If for whatever reason this proves unsatisfactory, we can replace it with the Stable Baselines3 implementation which features extra optimizations. Given that it is already written with Python and OpenAI Gym in mind, it would be easy to integrate.
 
