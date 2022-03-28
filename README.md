@@ -14,14 +14,14 @@ Previous attempts at music generation that used DQN or LSTM-based models produce
 * Have transformer implementation half-complete. 
 * Have PPO setup half-complete.
 
-##### March 16, 2022 
+##### April 1, 2022 
 * Have transformer model fully functional.
 * Have one sample song generated.
 
-##### March 23, 2022
+##### April 8, 2022
 * Have a refined transformer model that has generated multiple songs of reasonable quality using PPO. 
 
-##### March 31, 2022
+##### April 10, 2022 (assuming no extension requested)
 * Finalize results and select best sample songs. 
 * Finalize paper and presentation materials for final submission.
 
