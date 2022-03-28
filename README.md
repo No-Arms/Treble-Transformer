@@ -62,6 +62,6 @@ If for whatever reason this proves unsatisfactory, we can replace it with the St
 
 The reward function needs to be able to measure the quality of output according to the sort of music we wish to generate. Theoretically, the reward function could become endlessly complicated. This is because songs can be endlessly complicated. Due to time constraints, we will be focusing on the most simple rules which a song must follow in order to sound like a written piece of music. As a baseline, we’ve devised the idea of penalizing any sequentially repeated notes (more than 3-4 times), off-key notes, measures with improper timing and sequential leaps. Reward should primarily go to songs with theoretically-sound chord structures, and similar sequences separated by more unique sequences as this comprises the bulk of any composition. As well, starting and ending a piece on tonic notes can be rewarded. Sparse reward shouldn’t be an issue.
 
-References
+### References
 [1] 	Z. Dai, Z. Yang, Y. Yang, J. Carbonell, Q. V. Le, and R. Salakhutdinov, “Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,” arXiv.org, 2019. https://arxiv.org/abs/1901.02860.
 
